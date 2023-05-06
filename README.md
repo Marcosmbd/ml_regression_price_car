@@ -5,7 +5,7 @@
 pandas <br>
 joblib <br>
 matplotlib <br>
-dataprep <br>
+pandas_profiling <br>
 pycaret <br>
 sklearn <br>
 
