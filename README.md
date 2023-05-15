@@ -1,4 +1,4 @@
-## Machine Learn Random Forest (Floresta Aleatória) 
+## Machine Learn Regression
 
 ### Install python (você vai precisar instalar estes pacotes)
 
@@ -8,6 +8,8 @@ matplotlib <br>
 pandas_profiling <br>
 pycaret <br>
 sklearn <br>
+numpy <br>
+seaborn <br>
 
 ## Utilize o comando "!pip install (nome)" no jupyter para instalá-los
 
